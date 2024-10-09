@@ -29,3 +29,5 @@ This project aims to gather and organize research papers in the domain of Legal 
 
 ## Benchmark
 
+[1] [LegalBench: A Collaboratively Built Benchmark for Measuring Legal Reasoning in Large Language Models](https://arxiv.org/abs/2308.11462), 2023
+[2] [LegalBench-RAG: A Benchmark for Retrieval-Augmented Generation in the Legal Domain](https://www.arxiv.org/abs/2408.10343), 2024
